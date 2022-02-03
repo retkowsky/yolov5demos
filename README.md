@@ -1,4 +1,6 @@
-# yolov5demos
+# Computer Vision object detection models with YoloV5 and PyTorch
+
+Just some sample demos for object detection with Yolov5.
 
 **YOLO - an acronym for 'You only look once'** - is an **object detection algorithm** that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
 
