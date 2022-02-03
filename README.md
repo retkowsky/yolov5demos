@@ -11,3 +11,8 @@ https://github.com/ultralytics/yolov5/releases
 <img src="img/yolo5chart.png" width=800>
 
 <img src="img/yolo5.jpg">
+
+
+03-Feb-2022
+
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
